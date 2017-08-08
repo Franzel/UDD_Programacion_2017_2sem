@@ -1,8 +1,12 @@
 # Encargos
 
+---
 ## Encargo 01 (E01): clonArte
-* Inicio: Semana 01
-* Calificación: **20%** (del 70% nota final)
+  * Calificación: **20%** nota presentación a Examen
+  * Entrega: Miércoles 16 de Agosto, 2:00 PM
+
+
+**Descripción:**
 * Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de 400x400 pixeles, utilizando estas funciones:
 
 	* background()
@@ -16,13 +20,14 @@
 	* arc()
 
 **Formato de entrega:**
-* Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E02_Apellido_Nombre`**
-* La imagen debe ser de 400x400 pixeles, en formato JPG
+* Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E01_Apellido_Nombre`**
+* En la misma carpeta se debe incluir la imagen original recortada. La imagen debe ser de 400x400 pixeles en formato JPG
 * En las primeras líneas del sketch de processing se especificará el nombre de la obra, el autor, y el URL a la imagen original
-* Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen de referencia (original recortada).
+* Comprimir en .zip la carpeta que contiene el sketch de Processing y la imagen original recortada.
 
-**Dónde entregar:**
-* Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/tnvg7EbC9bnlaX6PvvHH) antes de las 10:00 del Lunes 22 de Mayo, previo al curso.
+**Dónde/Cuándo entregar:**
+* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/oGbvG4j1OisWYqUSjV8H)
+* **Fecha y hora límite:** Miércoles 16 de Agosto a las 2:00 PM
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
@@ -32,6 +37,30 @@
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem)*
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_1sem)*
+ ---
+
+
+## Encargo 02 (E02): Ejercicio 1
+* Calificación: **10%** nota presentación a Examen
+* Entrega: Miércoles 23 de Agosto, 2:00 PM
+
+**Descripción:**
+* por definir
+
+**Formato de entrega:**
+* Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E02_Apellido_Nombre`**
+
+**Dónde/Cuándo entregar:**
+* Subir el archivo .zip a [esta carpeta Dropbox]() por definir
+
+**Evaluación y multas:**
+* **Criterios de evaluación:**
+	* por definir
+* **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+* **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
+
+
+---
