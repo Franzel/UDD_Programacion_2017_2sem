@@ -1,4 +1,6 @@
-# UDD_Programacion_2017_1sem
+# UDD_Programacion_2017_2sem
+## Profesor Francisco Zamorano
+## Ayudante Vicente Politeo
 
 
 ## Descripción del Curso
