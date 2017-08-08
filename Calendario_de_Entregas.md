@@ -1,7 +1,7 @@
 # UDD_Programacion_2017_2sem
 **Profesor Francisco Zamorano / Ayudante Vicente Politeo**
 
-## Calendario de Entregas
+## Calendario de Entregas - Resumen
 * **E01 - clonArte**
   * Tipo: Encargo
   * Peso: 20% nota presentación a Examen
