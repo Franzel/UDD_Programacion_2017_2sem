@@ -15,7 +15,7 @@
 
 ## Para la próxima semana
 ### Encargo 01 (E01): clonArte
-* Ver [descripción del encargo](https://github.com/Franzel/UDD_Programacion_2017_1sem/tree/master/S1/ParaEncargo01)
+* Ver [descripción del encargo](https://github.com/Franzel/UDD_Programacion_2017_2sem/blob/master/Encargos.md#encargo-01-e01-clonarte)
 
 ### Video sugerido
 * [Hello Processing](http://hello.processing.org)
