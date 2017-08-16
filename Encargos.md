@@ -54,11 +54,13 @@
 * Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E02_Apellido_Nombre`**
 
 **Dónde/Cuándo entregar:**
-* Subir el archivo .zip a [esta carpeta Dropbox]() por definir
+* Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/Yt74sdLQBoZ6yiX8Re7G)
 
 **Evaluación y multas:**
 * **Criterios de evaluación:**
-	* por definir
+  * Funcionamiento correcto, comentarios y limpieza de codigo.
+  * Creatividad de variación entre los tres estados
+  * Uso correcto de variables
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
