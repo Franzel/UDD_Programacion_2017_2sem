@@ -48,7 +48,7 @@
 * Entrega: Miércoles 23 de Agosto, 2:00 PM
 
 **Descripción:**
-* por definir
+* Hacer que en el mouse dibuje un circulo al mantener apretado. El tamaño y el color del círculo estaran dados por una variable que definiremos al inicio del sketch y que podemos variar. Establecer 3 estados para el dibujo dependiendo si se presiona la tecla 'a', 's' ó 'd', ya sea que cambie de color, tamaño, que dibuje otra figura, etc
 
 **Formato de entrega:**
 * Tanto la carpeta y archivo `.pde` deben llamarse igual. Ambas utilizarán la siguiente nomenclatura: **`E02_Apellido_Nombre`**
