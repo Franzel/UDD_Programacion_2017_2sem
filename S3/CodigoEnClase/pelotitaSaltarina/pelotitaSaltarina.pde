@@ -10,8 +10,8 @@ void setup() {
   size(600, 300);
   background(255, 0, 0);
 
-  posX = width/2;
-  posY = height/2;
+  posX = random(width);
+  posY = random(height);
   sizeX = 50;
   sizeY = 50;
   dirX = 1;
