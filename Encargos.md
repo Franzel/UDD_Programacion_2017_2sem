@@ -66,3 +66,40 @@
 
 
 ---
+
+### Encargo 03 (E03): hyperBrush
+* Calificación: **30%** nota presentación a Examen
+* Entrega: Miércoles 30 de Agosto, 2:00 PM
+
+**Descripción:**
+* En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides.
+* Usando esta herramienta de dibujo vamos a crear una composición (imagen) que demuestre sus habilidades.
+* El pincel debe utilizar una funcion propia donde se define qué se dibuja. Por ejemplo, si va a dibujar una elipse, la funcion de `ellipse()` irá dentro de una funcion `dibujaElipse(posX, posY, porte, color)` y desde el `draw()` llamaremos a esta función.
+* Debe tener los siguientes capacidades:
+  * Poder dibujar o no dibujar a discreción
+  * Poder borrar el canvas, partir de cero
+  * Cambio de Color, ya sea automático o con control
+  * Debe incluir una condicional, en cualquiera de sus formas `if(), else if(), else()`
+  * Mientras más expresiva sea la herramienta, mejor!!!!
+  * Si se usa `random()`, deberá usarse con intención y moderación.
+  * Puntos extra si se le integra algún tipo de animación
+
+
+**Formato de entrega:**
+  * Se entrega una sola carpeta, cuyo nombre es idéntico al del sketch de processing que contiene. Se utilizará la siguiente nomenclatura: **`E03_Apellido_Nombre`**
+  * Junto al archivo `.pde` adjuntar una captura de imagen del sketch (En formato JPG), mostrando un ejemplo de lo que se puede pintar con la herramienta.
+  * La carpeta se comprime en .zip antes de ser entregada (subida).
+
+**Dónde entregar:**
+  * Subir el archivo .zip a [esta carpeta Dropbox](https://www.dropbox.com/request/l6RfF23kbovGKSx2T4Ro)
+
+**Criterios de Evaluación :**
+* Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor. Mientras más entretenida de usar y mas bello e interesante lo que se pinta, mejor será calificada.
+* Uso de conocimientos aprendidos hasta ahora. Capacidad de ser inventivo con las herramientas vistas en clase.
+* Limpieza, depuración y nivel de comentarios del código
+
+**Multas:**
+  * **Entregas tardías:**
+  Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+  * **Especificaciones:**
+  Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
