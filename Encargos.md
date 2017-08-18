@@ -64,9 +64,10 @@
 * **Entregas tardías:** bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
 * **Especificaciones:** Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-
 ---
-## Encargo 03 (E03): hyperBrush
+
+
+## Encargo 03 (E03): hyperBrush
 * Calificación: **30%** nota presentación a Examen
 * Entrega: Miércoles 30 de Agosto, 2:00 PM
 
