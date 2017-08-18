@@ -66,7 +66,6 @@
 
 
 ---
-
 ## Encargo 03 (E03): hyperBrush
 * Calificación: **30%** nota presentación a Examen
 * Entrega: Miércoles 30 de Agosto, 2:00 PM
