@@ -1,4 +1,3 @@
-boolean bMayor;
 color miColor;
 
 void setup() {
@@ -8,6 +7,11 @@ void setup() {
 
 void draw() {
   line(width/2, 0, width/2, height);
+
+  //  Esto hace lo mismo que el ejemplo 4a,
+  //  solo esta escrito en otro estilo.
+  //  Noten que en vez de usar && se puede poner una condicional dentro de otra condicional
+  //  Es cosa de gusto y preferencia
 
   if (mousePressed) {
     if (mouseX>width/2) {

@@ -11,7 +11,7 @@ void setup () {
   sizeY= 50;
   posX=width/2 - sizeX/2;
   posY=height/2 - sizeY/2;
-  miColor = color(255,255,255);
+  miColor = color(255, 255, 255);
   fill (miColor);
   //rectMode(CENTER);
 }
@@ -35,7 +35,6 @@ void draw () {
   fill (miColor);
 
   rect(posX, posY, sizeX, sizeY);
-  
+
   println(click);
 }
-
