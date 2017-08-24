@@ -43,7 +43,7 @@
  ---
 
 
-## Encargo 02 (E02): Ejercicio 1
+## Encargo 02 (E02): Ejercicio 1, Dibujo en Mouse
 * Calificación: **10%** nota presentación a Examen
 * Entrega: Miércoles 23 de Agosto, 2:00 PM
 
@@ -74,7 +74,6 @@
 **Descripción:**
 * En un canvas de 500x500, crear una herramienta de dibujo creativa. Llamémoslo un pincel de dibujo en esteroides.
 * Usando esta herramienta de dibujo vamos a crear una composición (imagen) que demuestre sus habilidades.
-* El pincel debe utilizar una funcion propia donde se define qué se dibuja. Por ejemplo, si va a dibujar una elipse, la funcion de `ellipse()` irá dentro de una funcion `dibujaElipse(posX, posY, porte, color)` y desde el `draw()` llamaremos a esta función.
 * Debe tener los siguientes capacidades:
   * Poder dibujar o no dibujar a discreción
   * Poder borrar el canvas, partir de cero
