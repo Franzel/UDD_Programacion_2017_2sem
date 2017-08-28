@@ -1,7 +1,6 @@
 int nColumnas = 20;
 int nFilas = 20;
 
-
 void setup() {
   background(0);
   size(500, 500);
