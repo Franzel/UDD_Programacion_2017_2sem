@@ -28,7 +28,7 @@
   * Tipo: Ejercicio
   * Peso: 10% nota presentación a Examen
   * Entrega: S5 - Miércoles 06 de Septiembre, 2:00PM
-  * Subir archivos en esta carpeta Dropbox
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/0qDylOEq1oVl787OrGk2)
 
 
 * **E05 - OOP**
@@ -43,8 +43,8 @@
   * Peso: 30% nota final de curso
   * Entregas:
     * **EX01 - Anteproyecto**
-      * S7 - Martes 27 de Septiembre, 2:00PM
+      * S7 - Miércoles 27 de Septiembre, 2:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/1nskefjZWuQ6h3MlwhDn)
     * **EX02 - Final**
-      * S8 - Miércoles 04 de Octubre, 4:00PM
+      * S8 - Miércoles 06 de Octubre, 4:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/Egl1aD04ZxK2YTdVUgtv)

@@ -102,3 +102,31 @@
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
+
+---
+## Encargo 04 (E04): patronInteractivo
+
+**Descripción:**
+* Crear una composición interactiva en base a For Loops.
+* Debe ser bidimensional, es decir un for loop dentro de otro for loop.
+* debe usar cambio de color.
+* Debe tener al menos 1 punto de interacción vía mouse y alguna otra a libre elección.
+
+
+**Formato de entrega:**
+* La carpeta que se entrega utilizará la siguiente nomenclatura: **`E04_Apellido_Nombre.zip`**
+* En las primeras líneas del sketch de processing se especificará el nombre del autor, fecha y nombre del sketch
+
+**Dónde entregar:**
+  * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/0qDylOEq1oVl787OrGk2)
+
+**Criterios de evaluación:**
+  * Expresividad, complejidad y novedad de la herramienta. Si es desafiante, mejor.
+  * Factor estético: debe visualmente ser muy atractiva.
+  * Limpieza, depuración y nivel de comentarios del código
+
+**Multas:**
+  * **Entregas tardías:**
+  Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+  * **Especificaciones:**
+  Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
