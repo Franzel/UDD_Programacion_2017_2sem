@@ -1,10 +1,14 @@
-int posX;
-int posY;
+float posX; //posicion X inicial
+float posY; //posicion Y inicial
+float espacio; //espacio o separacion entre elementos
+float nElementos; //numero total de elementos
 
 void setup() {
   size(500, 500);
-  posX = 1;
+  posX = 0;
   posY = 100;
+  espacio = 20;
+  nElementos = 10; 
 }
 
 void draw() {
@@ -18,15 +22,14 @@ void draw() {
 
   background (250, 50, 250);
 
-  for (int x=0; x<width; x+=20) {
-    rect(posX * x, posY, 10, 10);
+  for (int i=0; i<nElementos; i++) {
+    rect(i * espacio, posY, 10, 10);
   }
 
   /*
    Este for loop dice:
-   int x=0  -- crea un a variable x que es igual a 0 (valor inicial)
-   x<width  -- repetir este loop hasta que x deje de ser menor a 'width'
-   x+=10    -- en cada ciclo, agregamos 10 a x (es decir irá 0-10-20-30)
+   int i=0  -- crea un a variable i que es igual a 0 (valor inicial)
+   i<nElementos -- repetir este loop hasta que i deje de ser menor a 'nElementos'
+   i++    -- en cada ciclo del for loop, agregamos 1 a i (es decir irá 0-1-2-3, etc)
    */
 }
-
