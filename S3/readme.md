@@ -6,9 +6,6 @@
 	* Eventos de mouse `mouseX, mouseY`
 	* Eventos de teclado `keyPressed(), mousePressed(), mouseDragged()`
 	* Data Types: `int, float, boolean`
-* Funciones 2:
-  * Funciones: qué son, por qué son útiles, funciones con return y sin return
-  * Crear una función propia
 * Data Types: `int, float, boolean`
 * Estructuras de control 1:
   * Condicionales `if, else, else if`
