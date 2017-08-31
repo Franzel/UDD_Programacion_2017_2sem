@@ -9,7 +9,8 @@ void setup() {
 
 void draw() {
   background (250, 50, 250);
-
+  
+  //For loop biDimensional
   for (int i=0; i<width; i+= 20) {
     for (int j=0; j<height; j+= 20) {
       rect(posX * i, posY * j, 10, 10);
