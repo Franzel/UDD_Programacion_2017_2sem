@@ -6,6 +6,7 @@ void setup() {
 }
 
 void draw() {
+  //Ocupamos esos valores guardados para posicionar en x varias elipses 
   ellipse(valoresA[0], 100, 15, 15);
   ellipse(valoresA[1], 100, 15, 15);
   ellipse(valoresA[2], 100, 15, 15);

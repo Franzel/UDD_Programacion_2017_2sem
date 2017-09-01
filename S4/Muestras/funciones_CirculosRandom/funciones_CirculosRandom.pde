@@ -5,11 +5,12 @@ void setup() {
   size(500, 500);
   smooth();
   background(50,50,50);
-  //frameRate(2);
 }
 
 void draw() {
   //background(255);
+  //Llamamos a la funcion varias veces, y le pasamos tamaños y colores específicos
+  
   drawCircle(33, 99, 113, 30);
   drawCircle(78, 135, 141, 45);
   drawCircle(254, 243, 230, 60);
