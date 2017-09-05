@@ -1,14 +1,13 @@
-int num = 50;
+int num = 100; //una variable int y le asignamos valor 50
 float[] posX = new float[num]; //declaramos y creamos el array
 float[] posY = new float[num]; //declaramos y creamos el array
 
 void setup() {
   size(600, 600);
-  smooth();
 }
 
 void draw() {
-//  background(255);
+  //background(255); //comentar y descomentar esta linea para ver efectos distintos
   
   for (int i=num-1; i>0; i--) { //notese que contamos al reves
     posX[0] = mouseX; //la ultima posicion siempre sera la posicion del mouse
@@ -20,7 +19,7 @@ void draw() {
     posX[i] = posX[i-1] ; //correr todos los valores hacia la derecha en el array
     posY[i] = posY[i-1] ; //correr todos los valores hacia la derecha en el array
     
-    println(i+" " + posX[i] +"  "+posY[i]);
-    posY[i] ++;
+    println(i+" " + posX[i] +"  "+posY[i]); //imprimir a consola para ver los numeros
+    posY[i] ++; //animar la posicion en Y
   }
 }
