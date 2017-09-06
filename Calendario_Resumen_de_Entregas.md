@@ -46,5 +46,5 @@
       * S7 - Miércoles 27 de Septiembre, 2:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/1nskefjZWuQ6h3MlwhDn)
     * **EX02 - Final**
-      * S8 - Miércoles 06 de Octubre, 4:00PM
+      * S8 - Miércoles 04 de Octubre, 4:00PM
       * Subir archivos en [esta carpeta Dropbox](https://www.dropbox.com/request/Egl1aD04ZxK2YTdVUgtv)

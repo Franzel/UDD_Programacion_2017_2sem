@@ -1,6 +1,5 @@
 /*
 Este código demuestra el uso de una función que es creada especialmente
- 
  */
 
 float posX, posY;  //variables para posicion
