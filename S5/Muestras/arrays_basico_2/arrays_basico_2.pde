@@ -1,5 +1,5 @@
-/*Este ejemplo solo imprime a la consola.
-Demuestra que podemos tener varios arrays, y que pueden guardar distintos tipos de data.
+/*Este ejemplo demuestra que podemos tener varios arrays,
+y que pueden guardar distintos tipos de data.
 En este caso tenemos un array de ints y un array de strings
 */
 
