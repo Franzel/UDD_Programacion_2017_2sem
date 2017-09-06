@@ -131,10 +131,12 @@
   * **Especificaciones:**
   Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
 
-### Encargo 05: experimenta
+---
+## Encargo 05 (E05): Experimenta
   * Inicio: Semana 05
   * Calificación: **30%** (del 70% nota final)
   * Crear una pieza de experimentación con todo lo que hemos aprendido hasta ahora, en especial el uso de funciones, for loops y arrays
+  * Debe sí o sí usar arrays.
   * Este encargo es de naturaleza bastante libre, por lo que se pondrá especial énfasis a el aspecto creativo y estético.
 
   **Formato de entrega:**
@@ -143,14 +145,14 @@
 
   **Dónde entregar:**
     * Subir el la carpeta de su sketch a [esta carpeta de dropbox](
-https://www.dropbox.com/request/JKPaPCWhBuVPtkbNLJ86) antes de las 2pm del Miercoles 13 de Septiembre, previo al curso.
+https://www.dropbox.com/request/dH6XINhEFVepY0j0hJm9) antes de las 2pm del Miercoles 13 de Septiembre, previo al curso.
 
-
-  **Evaluación y multas:**
-  * **Criterios de evaluación:**
+  **Criterios de evaluación:**
   	* Expresividad, complejidad y novedad de la estetica e interacción.
     * Uso de recursos aprendidos.
   	* Limpieza, depuración y nivel de comentarios del código
+
+  **Evaluación y multas:**
   * **Entregas tardías:**
   Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
   * **Especificaciones:**
