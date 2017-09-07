@@ -10,8 +10,6 @@
 * Strings
 * Operador matemático: módulo `%`
 
-
-
 ## Para la próxima semana
 Encargo 04: patronInteractivo
 
