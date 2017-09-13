@@ -203,11 +203,11 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 ###### **Anteproyecto**:
 - Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
 - Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/QvioF5oOEP2LYxYT93hw) antes de las 14:00 del Miércoles 27 de Septiembre, previo al curso.
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/1nskefjZWuQ6h3MlwhDn) antes de las 14:00 del Miércoles 27 de Septiembre, previo al curso.
 
 ###### **Final:**
 - Nomenclatura: **`EX_FINAL_apellido_Nombre.zip`**
-- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/e9ZocRr3XCBKwGZdnkaY) antes de las 14:00 del Miércoles 04 de Octubre, previo al curso.
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/Egl1aD04ZxK2YTdVUgtv) antes de las 14:00 del Miércoles 04 de Octubre, previo al curso.
 
 
 **Evaluación y multas:**
