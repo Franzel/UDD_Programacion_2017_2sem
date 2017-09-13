@@ -160,4 +160,62 @@ Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, 
 
 
 
-###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem)*  
+###### *««« volver al [home del repositorio](https://github.com/Franzel/UDD_Programacion_2017_2sem)*
+
+
+---
+### Examen: Poster Interactivo
+* Inicio: Semana 06
+* Entrega Final : Semana 08
+* Calificación: **30%** (del 100% calificación final del curso)
+
+#### Descripción
+* La entrega consiste en dos partes:
+  * 1 - Sketch de Processing Interactivo
+  * 2 - Poster impreso, que se colgará al lado de su entrega el día del examen.
+* Crear una composición visual, lo más acabada, desarrollada y fina posible. Debe tener múltiples elementos que conformen una composición mayor. No basta con dibujar una composición, sino que esta debe tener un orden matemático que sea claramente visible y eso es lo que la haga interesante.
+* La composición debe tener interacción con mouse y al menos 3 teclas.
+* NO ES: E01 ClonArte, no es hyperBrush. En ese sentido, se debe generar mas bien un sistema de dibujo generativo-paramétrico.
+* Se podrá tomar inspiración de la naturaleza (ej. mariposas) o de sistemas sintéticos (ej. arquitectura), pero la idea es que la composición final sea lo más atractiva e interesante posible desde un punto de vista estético.
+* El poster impreso debe ser hecho a partir de una captura pdf de la composición. Hay que escoger un momento y capturarlo. El formato del poster será definido en los próximos días.
+
+#### Etapas de Entrega:
+**Semana 07: Anteproyecto**
+- Cada alumno presentará (en 3 minutos máximo) lo que se pretende hacer.
+- La presentación debe incluir:
+  - Uno o más esquemas de lo que se quiere hacer, es decir, dibujar y esquematizar tanto la funcionalidad, interacción y visualidad del resultado final.
+  - Mostrar en forma breve lo que se ha programado hasta este momento. Debe ser funcional y demostrar que se ha programado en base a la intención del proyecto.
+  - Fuentes de inspiración.
+  - Plan de trabajo: dónde quiero estar la proxima semana, qué dejaré para la semana final.
+  - Entregar un pdf, en formato horizontal, máximo de 2 hojas que explique en forma clara y concisa lo descrito más arriba.
+  - ***ver formatos de entrega más abajo***
+
+**Semana 08: Entrega Final**
+- Cada alumno presentará (en 3 minutos máximo) el estado final del proyecto.
+- La presentación debe incluir:
+  - Colgar el poster junto a su computador.
+  - Explicar lo que se hizo, la intención, el concepto y cómo funciona el codigo.
+  - Qué cambió o evolucionó desde la semana pasada?
+  - ***ver formatos de entrega más abajo***
+
+#### **Formato y links de entrega:**
+
+###### **Anteproyecto**:
+- Carpeta comprimida en .zip, que incluye el pdf y el sketch de processing
+- Nomenclatura: **`EX_01_Apellido_Nombre.zip`**
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/QvioF5oOEP2LYxYT93hw) antes de las 14:00 del Miércoles 27 de Septiembre, previo al curso.
+
+###### **Final:**
+- Nomenclatura: **`EX_FINAL_apellido_Nombre.zip`**
+- Subir el archivo .zip a [esta carpeta de dropbox](https://www.dropbox.com/request/e9ZocRr3XCBKwGZdnkaY) antes de las 14:00 del Miércoles 04 de Octubre, previo al curso.
+
+
+**Evaluación y multas:**
+###### **Criterios de evaluación:**
+  * Expresividad, complejidad y novedad, tanto de la estética como de la interacción.
+  * Aplicación creativa de conocimientos, riqueza del sistema y capacidades gráficas
+  * Limpieza, depuración y nivel de comentarios del código
+###### **Entregas tardías:**
+Bajan 1.0 punto diario, y serán aceptadas máximo dos días después de la hora límite con la multa correspondiente. Trabajos que no sean entregados incluso después de ese plazo serán calificadas con nota 1.0
+###### **Especificaciones:**
+Entregas que no sigan los formatos o especificaciones descritas (nomenclaturas, formatos, etc) tendrán una multa de hasta -1.0 puntos
