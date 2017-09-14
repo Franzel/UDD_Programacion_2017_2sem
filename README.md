@@ -34,7 +34,7 @@ En ciertas clases existirá un ¨Desafío¨, que busca desarrollar habilidades p
 #### Participación y proactividad
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al trabajo propio y al de sus pares.
 
-### Compromiso Ético
+## Compromiso Ético
 
 El código con el que trabajaremos en el curso responde a la lógica de _[Código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)_, es decir, material intelectual desarrollado y distribuido libremente.
 
