@@ -34,6 +34,19 @@ En ciertas clases existirá un ¨Desafío¨, que busca desarrollar habilidades p
 #### Participación y proactividad
 * Se espera que los alumnos sean capaces de aportar al curso, ya sea con ejemplos de código, compartir proyectos que sean relevantes, plantear dudas y tener un alto nivel crítico frente al trabajo propio y al de sus pares.
 
+### Compromiso Ético
+
+El código con el que trabajaremos en el curso responde a la lógica de _[Código abierto](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)_, es decir, material intelectual desarrollado y distribuido libremente.
+
+Por la naturaleza de la asignatura y de Processing, el lenguaje de programación utilizado en el curso, los estudiantes encontrarán fácilmente referencias de códigos que podrán obtener de Internet, en diversas fuentes.
+
+El uso de estas fuentes está permitido, en tanto exista:
+* Una comprensión del estudiante respecto a qué función cumple, y cómo opera dicho código.
+* **Siempre** exista atribución a la fuente original de dicho material, explicitado en el código mismo.
+* Apropriación responsable, el código usado debe haber sido modificado, remezclado lo suficiente para que no constituya un plagio.
+
+La práctica de plagio no será tolerada y considerada una falta grave. De suceder, se seguirán los protocolos establecidos en el [Instructivo de Intergridad Academica](https://github.com/disenoudd/Programacion-DIC122/raw/master/INSTRUCTIVO_DE_INTEGRIDAD_ACADÉMICA_diseño_UDD.pdf) de la Facultad de Diseño.
+
 ## Bibliografía
 ### Bibliografía Obligatoria:
 1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org)
