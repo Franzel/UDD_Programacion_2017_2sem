@@ -1,3 +1,6 @@
+// Basado en ejemplo por Casey Reas  - https://processing.org/tutorials/print/
+
+
 import processing.pdf.*;
 boolean saveImage;
 
@@ -6,11 +9,7 @@ void draw() {
     beginRecord(PDF, "poster_###.pdf");
   }
 
-  /*
-  Mi
-   Codigo
-   Aca
-   */
+  // Mi Codigo Aca
 
   if (saveImage) {
     endRecord();
