@@ -4,6 +4,10 @@
 import processing.pdf.*;
 boolean saveImage;
 
+void setup(){
+  
+}
+
 void draw() {
   if (saveImage) {
     beginRecord(PDF, "poster_###.pdf");
