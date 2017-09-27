@@ -4,7 +4,7 @@
  La manera mas facil es en Processing ir a menu Tools
  y crearla de esa manera.
  
- Cuidado con esa carpeta data, si la movemos, todo dejara de funcionar
+ Cuidado con esa carpeta "data", si la movemos, todo dejara de funcionar
  
  Vean "textAlign" en la referencia de Processing, hay maneras de controlar
  el texto mas en detalle. 
