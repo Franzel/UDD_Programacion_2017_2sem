@@ -4,7 +4,6 @@
   * Arrays unidimensionales
   * Arrays y For Loops
   * Arrays bidimensionales
-  * Matrices de dibujo: `pushMatrix(), popMatrix(), pushStyle(), popStyle()`
 
 ## Para la próxima semana
 
